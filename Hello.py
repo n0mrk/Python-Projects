@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-print "\nHello, Python!"
+print "\nHello, Python, yep!"
 
 str1 = 'Hello World!'
 
