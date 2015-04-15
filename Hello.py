@@ -35,4 +35,4 @@ del var2
 print var1
 #print var2  #errors because del var2
 
-#raw_input("\n\nPress the enter key to exit.")
+raw_input("\n\nPress the enter key to exit.")
